@@ -1,5 +1,5 @@
 # E-Commerce Delivery Analytics Dashboard
-
+<img width="859" height="478" alt="image" src="https://github.com/user-attachments/assets/fcdb3d00-d7e9-4a43-9c89-2b2f7f2418fe" />
 
 An end-to-end data analytics project analyzing e-commerce delivery data using SQL and Power BI.
 
@@ -80,4 +80,4 @@ The Power BI dashboard provides an interactive view of:
 ## Conclusion
 
 The analysis shows that product-category mix has a stronger impact on revenue and order value than differences between delivery platforms. Personal Care emerged as the strongest category in terms of revenue and average order value, while platform-level performance remained relatively balanced.
-<img width="859" height="478" alt="image" src="https://github.com/user-attachments/assets/fcdb3d00-d7e9-4a43-9c89-2b2f7f2418fe" />
+
