@@ -1,5 +1,5 @@
 # E-Commerce Delivery Analytics Dashboard
-# E-Commerce Delivery Analytics
+
 
 An end-to-end data analytics project analyzing e-commerce delivery data using SQL and Power BI.
 
